@@ -11,6 +11,16 @@ li {
     list-style-type: none;
 }
 
+section {
+    background-color: rgb(219, 217, 217);
+}
+
+/* LANDING PAGE */
+
+#landing-page {
+    min-height: 100vh;
+}
+
 /* NAVIGATION */
 
 nav {
