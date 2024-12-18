@@ -241,6 +241,11 @@ nav {
     background-color: rgb(245, 245, 245);
 }
 
+.modal__contact {
+    background-color: #242424;
+    color: white;
+}
+
 /* PROJECTS */
 
 .section__title {
